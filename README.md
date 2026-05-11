@@ -1,15 +1,46 @@
-# Hi there, I'm Ricardo Dereste Junior! 👋
+# Hi, I'm Ricardo Dereste 👋
 
-## About Me
-- 🌍 I'm half Brazilian and half Italian.
-- 🌆 I currently live in Ireland.
+## Full-Stack Developer | Software Engineer
 
-## My Journey
-- 💻 I'm studying to become a web developer.
-- 📚 I'm learning HTML, CSS, Sass, JavaScript, React, and TypeScript.
+I am a Full-Stack Developer focused on building modern web applications and continuously improving my skills in software engineering. After completing the Full-Stack Engineer, Front-End Engineer, and Back-End Engineer Career Paths at Codecademy, I developed strong foundations in technologies such as HTML, CSS, JavaScript, React, Node.js, Express.js, PostgreSQL, and MongoDB.
 
-## Connect with Me
-- 📫 You can reach me via email at [jrdereste@hotmail.com](mailto:jrdereste@hotmail.com).
-- 🌐 Find me on [LinkedIn](https://www.linkedin.com/in/ricardodereste/) to connect professionally.
+I enjoy creating responsive user interfaces, developing scalable applications, and exploring both front-end and back-end development. Through personal projects and continuous learning, I am constantly expanding my knowledge and refining my problem-solving abilities.
 
-Feel free to explore my GitHub repositories and get in touch with me. I'm always open to collaboration and learning opportunities!
+Fluent in Portuguese and English, and currently learning Spanish and Russian, I am motivated by technology, communication, and personal growth. My goal is to contribute to innovative companies, collaborate with talented teams, and build real-world solutions that create meaningful impact.
+
+---
+
+## 🚀 Technologies & Tools
+
+### Languages
+JavaScript, SQL, HTML5, CSS3
+
+### Frameworks & Libraries
+React.js, Node.js, Express.js, React Router, Redux, Axios, Context API, JWT, bcrypt, Mongoose, Passport.js
+
+### Databases
+MongoDB, PostgreSQL
+
+### Developer Tools
+Git, GitHub, VS Code, npm, Postman, Vite, Chrome DevTools, Bash
+
+---
+
+## 🌎 Languages
+
+- Portuguese (Native)
+- English (Fluent)
+- Spanish (Learning)
+- Russian (Learning)
+
+---
+
+## 📫 Connect With Me
+
+- Portfolio: https://ricardodereste.com
+- LinkedIn: https://www.linkedin.com/in/ricardodereste/
+- GitHub: https://github.com/RicardoDereste
+
+---
+
+Interested in collaboration, new opportunities, or building meaningful projects together? Let's connect.
